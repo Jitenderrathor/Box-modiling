@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+}
+.First {
+    background-color: lightcoral;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Second {
+    background-color: lightcyan;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Third {
+    background-color: lightgreen;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Fourth {
+    background-color: lightsalmon;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Five {
+    background-color: lightblue;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Six {
+    background-color: lightyellow;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Seven {
+    background-color: lightsteelblue;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+
+.Eight {
+    background-color: lightskyblue;
+    width: calc(25% - 40px);
+    height: 400px;
+    overflow: auto;
+    line-height: 1em;
+    text-align: center;
+    padding: 30px 10px 30px 10px;
+    margin: 20px 10px;
+    float: left;
+}
+.container{
+    background-color: lightblue;
+    margin:0px;
+}
+
+.TERA {
+    text-align: justify;
+}
+
+.sign {
+    margin-top: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+hr{
+    
+    clear: both;
+}
